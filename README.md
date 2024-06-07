@@ -1,6 +1,6 @@
 # Bem vindo ao meu perfil
 
-Meu nome e Laysla Duarte
+**Meu nome e Laysla Duarte**
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
